@@ -44,7 +44,12 @@ canvas{
 }
 
 #my-info {
- color: white;
+color: white;
+background-color: transparent;
+position: absolute;
+top: 40%;
+left: 0;
+z-index 99;
 }
 
 /* ---- stats.js ---- */
