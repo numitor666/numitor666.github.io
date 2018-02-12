@@ -60,7 +60,11 @@ font-size: 26px;
 
 
 #my-info h2 {
-font-size: 26px;
+font-size: 20px;
+}
+
+#my-info h3 {
+font-size: 20px;
 }
 
 /* ---- stats.js ---- */
