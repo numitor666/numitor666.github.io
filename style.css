@@ -53,6 +53,15 @@ left: 0;
 z-index 99;
 }
 
+#my-info h1 {
+font-size: 14px;
+}
+
+
+#my-info h2 {
+font-size: 14px;
+}
+
 /* ---- stats.js ---- */
 
 .count-particles{
