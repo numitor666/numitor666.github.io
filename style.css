@@ -45,6 +45,7 @@ canvas{
 
 #my-info {
 color: white;
+text-align:center;
 background-color: transparent;
 position: absolute;
 top: 40%;
